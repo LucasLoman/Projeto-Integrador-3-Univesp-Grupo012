@@ -55,7 +55,6 @@ Baixa rastreabilidade das informações
 O projeto propõe uma solução digital centralizada e acessível via navegador.
 
 🛠️ Tecnologias Utilizadas
-Front-end
 
 HTML5
 
