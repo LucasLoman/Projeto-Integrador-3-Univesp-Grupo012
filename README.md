@@ -110,6 +110,7 @@ Exemplo de endpoint:
 
 GET /api/registros
 POST /api/registros
+
 ☁️ Deploy em Nuvem
 
 A aplicação durante o processo de desenvolvimento e avaliação do projeto estava hospedada em ambiente de nuvem, garantindo:
